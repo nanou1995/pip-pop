@@ -34,3 +34,4 @@ To run the tests:
 
 1. ``pip install -r requirements.txt``
 2. ``tox``
+3. 测试
